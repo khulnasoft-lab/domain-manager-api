@@ -94,7 +94,7 @@ setup(
         "Faker==18.7.0",
         "Flask==2.2.2",
         "Flask-Cors==3.0.10",
-        "gunicorn==20.1.0",
+        "gunicorn==21.2.0",
         "marshmallow==3.15.0",
         "mongomock==4.0.0",
         "pymongo==4.1.1",
