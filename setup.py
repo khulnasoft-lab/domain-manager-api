@@ -99,7 +99,7 @@ setup(
         "mongomock==4.0.0",
         "pymongo==4.1.1",
         "requests==2.27.1",
-        "validators==0.20.0",
+        "validators==0.22.0",
     ],
     extras_require={
         "test": [
