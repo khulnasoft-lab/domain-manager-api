@@ -90,7 +90,7 @@ setup(
         "APScheduler==3.10.4",
         "boto3==1.26.130",
         "cognitojwt==1.4.1",
-        "dnspython==2.2.1",
+        "dnspython==2.6.1",
         "Faker==18.13.0",
         "Flask==2.2.2",
         "Flask-Cors==3.0.10",
